@@ -5,6 +5,8 @@ metadata:
   annotations:
     github.com/project-slug: swatigarg93/demo_project
 spec:
-  type: other
-  lifecycle: unknown
+  type: Java
+  lifecycle: Production
   owner: user:swatigarg93
+  description: Java project
+  tags: Java
